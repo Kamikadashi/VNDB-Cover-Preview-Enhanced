@@ -96,7 +96,7 @@ function handleMouseOver() {
                 }
             });
         }
-    }, 500); // Delay of 0.5 seconds
+    }, 250); // Delay of 0.25 seconds
 }
 
 function handleMouseLeave() {
