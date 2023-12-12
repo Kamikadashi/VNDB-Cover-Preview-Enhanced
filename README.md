@@ -4,7 +4,7 @@ This script enhances the functionality of the original "VNDB Cover Preview" by i
 
 ## Improvements
 
-The new script differs from the old one in the following ways:
+The new script differs from the original one in the following ways:
 
 1. **Improved Image Positioning**: The new script calculates the position of the image preview more accurately, ensuring that it always stays within the viewport. This means you won't have to scroll or adjust your screen to view the entire image.
 
